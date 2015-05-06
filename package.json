@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-json",
+  "version": "0.0.1",
+  "description": "Convert sequelize models to JSON API representations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ig-dev/sequelize-json.git"
+  },
+  "author": "Ignatius",
+  "license": "N/A",
+  "bugs": {
+    "url": "https://github.com/ig-dev/sequelize-json/issues"
+  },
+  "homepage": "https://github.com/ig-dev/sequelize-json#readme"
+}
